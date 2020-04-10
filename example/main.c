@@ -33,7 +33,7 @@ int main(void)
     Radio->Init();
 
     /* Init freemodbus */
-    （void）eMBInit(MB_RTU, Client_ADDRESS, 0, BAUDRATE, MB_PAR_NONE);
+    (void)eMBInit(MB_RTU, Client_ADDRESS, 0, BAUDRATE, MB_PAR_NONE);
 
     while (1)
     {
