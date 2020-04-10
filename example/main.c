@@ -1,5 +1,5 @@
 /*! 
- * \file        LoraComm.c
+ * \file        main.c
  * \brief        
  *
  * \version     1.0
